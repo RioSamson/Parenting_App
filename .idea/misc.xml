@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.12291666666666666" />
+        <entry key="../../Library/Android/sdk/platforms/android-30/data/res/layout/simple_spinner_dropdown_item.xml" value="0.20729166666666668" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3037037037037037" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/drawable/btn_background.xml" value="0.38229166666666664" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/drawable/ic_addtask.xml" value="0.38229166666666664" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/drawable/ic_assignment.xml" value="0.38229166666666664" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3037037037037037" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/drawable/ic_white_plus.xml" value="0.38229166666666664" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/layout/activity_add_child.xml" value="0.3654891304347826" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/layout/activity_add_tasks.xml" value="0.36614583333333334" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/layout/activity_flip_coin.xml" value="0.17806484295845998" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/layout/activity_managing_my_children_data.xml" value="0.2259963768115942" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/layout/activity_tasks.xml" value="0.2798913043478261" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/layout/activity_whose_turn.xml" value="0.33" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/layout/content_main.xml" value="0.17806484295845998" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/menu/add_child.xml" value="0.2953703703703704" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/menu/add_task.xml" value="0.3229166666666667" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/menu/backup_and_delete_on_action_bar.xml" value="0.3229166666666667" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/menu/edit_child.xml" value="0.2953703703703704" />
+        <entry key="..\:/CMPT/CMPT_276/Project/app/src/main/res/menu/edit_task.xml" value="0.3229166666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ParentApp/app/src/main/res/layout/activity_add_child.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ParentApp/app/src/main/res/layout/activity_edit_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ParentApp/app/src/main/res/layout/activity_main.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ParentApp/app/src/main/res/layout/activity_timeout_timer.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ParentApp/app/src/main/res/layout/content_main.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ParentApp/app/src/main/res/menu/add_child.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ParentApp/app/src/main/res/menu/edit_child.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ParentApp/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable-v24/back_btn.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/drawable-v24/grey_conner.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.3260416666666667" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/drawable/btn_background.xml" value="0.19375" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.3260416666666667" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/layout/activity_add_child.xml" value="0.1490036231884058" />
+        <entry key="app/src/main/res/layout/activity_add_tasks.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_edit_task.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/activity_flip_coin.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_help.xml" value="0.196875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2932148845806657" />
+        <entry key="app/src/main/res/layout/activity_managing_my_children_data.xml" value="0.22708333333333333" />
+        <entry key="app/src/main/res/layout/activity_record.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_start_take_breath.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_take_breath.xml" value="0.2918772438126809" />
+        <entry key="app/src/main/res/layout/activity_tasks.xml" value="0.1331521739130435" />
+        <entry key="app/src/main/res/layout/activity_timeout_timer.xml" value="0.1331521739130435" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.18478260869565216" />
+        <entry key="app/src/main/res/layout/item_choice.xml" value="0.1490036231884058" />
+        <entry key="app/src/main/res/layout/layout_popupwindow.xml" value="0.1802536231884058" />
+        <entry key="app/src/main/res/layout/list_view.xml" value="0.18478260869565216" />
+        <entry key="app/src/main/res/layout/lv_child_list.xml" value="0.18478260869565216" />
+        <entry key="app/src/main/res/layout/simple_list_item_data.xml" value="0.1802536231884058" />
+        <entry key="app/src/main/res/menu/backup_and_delete_on_action_bar.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/menu/backup_on_action_bar.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/menu/history_on_action_bar.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2078125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20364583333333333" />
+        <entry key="app/src/main/res/xml/anim_in.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/xml/anim_out.xml" value="0.17028985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

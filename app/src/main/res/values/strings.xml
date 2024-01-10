@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">CMPT276_2021_7_manganese</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="children_manager">Children Manager</string>
+    <string name="flip_a_coin">Flip a Coin</string>
+    <string name="flip_coin">Flip Coin</string>
+    <string name="timer">Timer</string>
+    <string name="timeout_timer">Timeout Timer</string>
+    <string name="backup">BackUp</string>
+    <string name="input_name">Please, input name here.</string>
+    <string name="name">Name:</string>
+    <string name="add_child_title">Add your child</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="record">Flip coin records</string>
+    <string name="minutes">Minutes</string>
+    <string name="start">START</string>
+    <string name="set">SET</string>
+    <string name="reset">RESET</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="select_a_child_data_to_manage">
+        Select a child data to manage
+        Select a child data to manage
+        Select a child data to manage     </string>
+    <string name="please_add_your_child_info">
+
+        Empty List
+        \nPlease add your child information
+
+    </string>
+    <string name="manage_your_children">Manage your children</string>
+    <string name="timeout_timer_done">Timeout Timer Done</string>
+    <string name="timer_has_run_out">Timer has run out.</string>
+    <string name="stop">Stop</string>
+    <string name="timer_done_channel">Timer Done Channel</string>
+    <string name="whose_turn">Whose Turn</string>
+    <string name="info_for_floating_button">
+        Click floating button below for Adding task.
+        Click floating button below for Adding task.
+        Click floating button below for Adding task.
+    </string>
+    <string name="whose_turn_activity_title">Whose Turn</string>
+    <string name="your_children">Your Children</string>
+    <string name="children">Children</string>
+    <string name="tasks_activity_title">Tasks List</string>
+    <string name="task">Task:</string>
+    <string name="input_task_here">Input task here</string>
+    <string name="add_task_title">Add task</string>
+    <string name="tasks">Tasks</string>
+    <string name="hep">Help</string>
+    <string name="title_flip_coin_history">History for flip coin</string>
+    <string name="action_bar_history">History</string>
+    <string name="user_photo">UserHeader</string>
+    <string name="user_name">UserName</string>
+    <string name="user_choice">UserChoice</string>
+    <string name="flip_result">Flip result</string>
+    <string name="time">Time</string>
+    <string name="action_bar_back">action_bar_back</string>
+    <string name="take_choose_photo">Take/Choose Photo</string>
+    <string name="using_default_photo">Using default Photo</string>
+    <string name="photo">Photo:</string>
+    <string name="done_task">Done Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">UPDATE</string>
+    <string name="current_turn_of">Current Turn of:</string>
+    <string name="textview">TextView</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="btn_take_breath">Take Breath</string>
+    <string name="tasks_history">Tasks History</string>
+    <string name="title_task_history_activity">Task History</string>
+    <string name="task_history">Task History</string>
+    <string name="start_breath">Start breath</string>
+    <string name="task_special">TASK:</string>
+    <string name="history">History</string>
+    <string name="empty_task_list">Empty task list</string>
+    <string name="default_timer_state">0:00</string>
+    <string name="textviewspecial">TextView</string>
+    <string name="time_special">Time @</string>
+
+</resources>

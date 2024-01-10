@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/ic_bg_breath"
+    android:paddingTop="@dimen/permission_dp_20"
+    tools:context=".TakeBreathActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="@dimen/permission_dp_30"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_baseline_arrow_back_24"
+            android:layout_marginLeft="@dimen/permission_dp_10"
+            android:layout_marginRight="@dimen/permission_dp_10"
+            android:layout_height="@dimen/permission_dp_30"></ImageView>
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Take Breath"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:layout_height="match_parent"></TextView>
+        <ImageView
+            android:layout_width="@dimen/permission_dp_30"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/permission_dp_10"
+            android:layout_marginRight="@dimen/permission_dp_10"
+            android:layout_height="@dimen/permission_dp_30"></ImageView>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:text="Please chose count to breath"
+        android:layout_marginLeft="@dimen/permission_dp_10"
+        android:layout_marginRight="@dimen/permission_dp_10"
+        android:layout_height="@dimen/permission_dp_40"></TextView>
+    <Spinner
+        android:id="@+id/sp_count"
+        android:layout_marginLeft="@dimen/permission_dp_10"
+        android:layout_marginRight="@dimen/permission_dp_10"
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"></Spinner>
+    <Button
+        android:layout_marginTop="50dp"
+        android:id="@+id/bt_start"
+        android:layout_width="match_parent"
+        android:text="@string/start"
+        android:textColor="@color/white"
+        android:layout_marginLeft="@dimen/permission_dp_10"
+        android:background="@color/blue"
+        android:layout_marginRight="@dimen/permission_dp_10"
+        android:layout_height="wrap_content"></Button>
+</LinearLayout>

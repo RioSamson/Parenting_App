@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.assttwo.MainActivity">
+    <item
+        android:id="@+id/action_backup"
+        android:icon="@drawable/ic_save"
+        android:title="@string/backup"
+        app:showAsAction="ifRoom" />
+</menu>

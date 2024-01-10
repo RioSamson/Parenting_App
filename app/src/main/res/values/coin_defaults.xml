@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="coin_default_circle_count">8</integer>
+    <integer name="coin_default_xAxisDir">1</integer>
+    <integer name="coin_default_yAxisDir">0</integer>
+    <integer name="coin_default_zAxisDir">0</integer>
+    <integer name="coin_default_result">1</integer>
+    <integer name="coin_default_duration_time">4000</integer>
+    <integer name="coin_default_start_offset">0</integer>
+</resources>
